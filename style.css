@@ -85,3 +85,24 @@ body {
     color: #1c1c1c;
     text-decoration: none;
 }
+
+/* TEMA ESCURO */
+
+.dark {
+    background: linear-gradient(236.85deg, #375B86 27.26%, #6B87A9 96.03%);
+}
+
+.dark .fundo {
+    background: #333439;
+    color: #ffffff;
+}
+
+.dark .projetos {
+    color: #1c1c1c;
+}
+
+.dark .tema .button {
+    background: #1c1c1c;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+}
