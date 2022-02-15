@@ -7,7 +7,7 @@ body {
 
 .fundo {
     background-color: #ffffff;
-    margin: 49px 90px;
+    margin: 3.063rem 5.625rem;
     box-shadow: 6px 6px 6px #0e1d2f;
     border-radius: 20px;
     color: #1c1c1c;
@@ -21,6 +21,7 @@ body {
 
 .perfil {
     display: flex;
+    
 }
 
 .foto-perfil {
@@ -30,7 +31,7 @@ body {
 }
 
 .titulo {
-    margin-left: 10px;
+    margin-left: 0.625rem;
 }
 
 .titulo h1 {
@@ -44,11 +45,43 @@ body {
 }
 
 .tema button {
-    align-self: flex-end;
+    align-self: flex-start;
     font-size: 24px;
     font-weight: 400;
     background: #ffffff;
     padding: 8px 16px;
     border-radius: 100px;
     border: 2px solid #0e1d2f;
+}
+
+.projetos {
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(230.65deg, #499cfe 27.49%, #9cc8fc 83.19%);
+    margin-top: 30px;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 4px rgba(16, 16, 16, 0.42);
+}
+
+.projetos ul {
+    padding: 0px;
+}
+
+.projetos-titulo {
+    list-style: none;
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.projetos-itens {
+    list-style: none;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 48px;
+}
+
+.projetos-itens p {
+    color: #1c1c1c;
+    text-decoration: none;
 }
