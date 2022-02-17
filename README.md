@@ -1,3 +1,3 @@
-![certificard-capa](https://user-images.githubusercontent.com/79291954/154472710-60ee7a3d-67ec-48d0-ae0c-f15b8b38e273.png)
+![Capa do projeto contendo os ícones dos projetos realizados durante a Imersão](https://www.canva.com/design/DAE4m9qS4vU/X8BDT8XmD8U_qTPo-Tuxhg/view?utm_content=DAE4m9qS4vU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 https://jermelterzi.github.io/cartao-de-visita/
