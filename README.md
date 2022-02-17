@@ -1,3 +1,3 @@
-![Capa do projeto contendo os ícones dos projetos realizados durante a Imersão](https://www.canva.com/design/DAE4m9qS4vU/X8BDT8XmD8U_qTPo-Tuxhg/view?utm_content=DAE4m9qS4vU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![Capa do projeto contendo os ícones dos projetos realizados durante a Imersão](https://user-images.githubusercontent.com/79291954/154473287-a8f72a6c-68a7-4916-8313-239673ce1f01.png)
 
 https://jermelterzi.github.io/cartao-de-visita/
