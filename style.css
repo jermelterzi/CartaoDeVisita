@@ -1,9 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 
-.root {
-    font-size: 16px;
-}
-
 body {
     background: linear-gradient(236.85deg, #041832 27.26%, #3468a7 96.03%);
     font-family: "Roboto", sans-serif;
@@ -104,6 +100,7 @@ body {
     width: 18rem;
     border-radius: 20px;
     box-shadow: 2px 2px 4px rgba(16, 16, 16, 0.42);
+    text-align: center;   
 }
 
 .icones ul {
