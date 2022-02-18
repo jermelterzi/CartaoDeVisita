@@ -4,15 +4,15 @@
 
 ## Índice
 
-* [Índice] (#indice)
+* [Índice](#índice)
 
-* [Descrição do Projeto] (#descricao-do-projeto)
+* [Descrição do Projeto](#descrição-do-projeto)
 
-* [Acesso ao Projeto] (#acesso-ao-projeto)
+* [Acesso ao Projeto](#acesso-ao-projeto)
 
-* [Demonstração do Projeto] (#demonstracao-do-projeto)
+* [Demonstração do Projeto](#demonstração-do-projeto)
 
-* [Tecnologias utilizadas] (#tecnologias-utilizadas)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
 
 ## Descrição do Projeto
 
@@ -24,10 +24,10 @@ Você pode acessar o [site do projeto](https://jermelterzi.github.io/cartao-de-v
 
 ## Tecnologias utilizadas
 <div style="display: inline_block" align="center"><br>
-  <img height="50em" align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50em" align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50em" align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="50em" align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="50em" align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="50em" align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
