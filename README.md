@@ -22,6 +22,8 @@ Você pode acessar o [site do projeto](https://jermelterzi.github.io/cartao-de-v
 
 ## Demonstração do Projeto
 
+![GIF com uma demonstração do projeto](https://user-images.githubusercontent.com/79291954/154686383-75bd26a2-3d96-4a25-a09f-31a8f24f8fcb.gif)
+
 ## Tecnologias utilizadas
 <div style="display: inline_block" align="center"><br>
     <img height="50em" align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
