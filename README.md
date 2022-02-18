@@ -16,9 +16,13 @@
 
 ## Descrição do Projeto
 
+Projeto realizado durante a 3ª ImersãoDev da Alura. Nele temos uma lista de todos os projetos realizados durante a Imersão.
+
+ Utilizando a ferramenta de visualização do [CodePen](https://codepen.io/) a aplicação nos permite visualizar os projetos sem sair da página, além de alterar o tema para escuro ou claro e exibe badges dos projetos realizados.
+
 ## Acesso ao projeto
 
-Você pode acessar o [site do projeto](https://jermelterzi.github.io/cartao-de-visita/).
+Você pode acessar o [site do projeto](https://jermelterzi.github.io/certificard/).
 
 ## Demonstração do Projeto
 
